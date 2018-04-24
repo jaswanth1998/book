@@ -1,0 +1,11 @@
+/Users/apple/Projects/2dArray/2dArray/bin/Debug/netcoreapp2.0/2dArray.deps.json
+/Users/apple/Projects/2dArray/2dArray/bin/Debug/netcoreapp2.0/2dArray.runtimeconfig.json
+/Users/apple/Projects/2dArray/2dArray/bin/Debug/netcoreapp2.0/2dArray.runtimeconfig.dev.json
+/Users/apple/Projects/2dArray/2dArray/bin/Debug/netcoreapp2.0/2dArray.dll
+/Users/apple/Projects/2dArray/2dArray/bin/Debug/netcoreapp2.0/2dArray.pdb
+/Users/apple/Projects/2dArray/2dArray/obj/Debug/netcoreapp2.0/2dArray.csprojResolveAssemblyReference.cache
+/Users/apple/Projects/2dArray/2dArray/obj/Debug/netcoreapp2.0/2dArray.csproj.CoreCompileInputs.cache
+/Users/apple/Projects/2dArray/2dArray/obj/Debug/netcoreapp2.0/2dArray.AssemblyInfoInputs.cache
+/Users/apple/Projects/2dArray/2dArray/obj/Debug/netcoreapp2.0/2dArray.AssemblyInfo.cs
+/Users/apple/Projects/2dArray/2dArray/obj/Debug/netcoreapp2.0/2dArray.dll
+/Users/apple/Projects/2dArray/2dArray/obj/Debug/netcoreapp2.0/2dArray.pdb

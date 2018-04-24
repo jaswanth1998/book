@@ -1,0 +1,11 @@
+/Users/apple/Projects/classes/classes/obj/Debug/netcoreapp2.0/classes.csprojResolveAssemblyReference.cache
+/Users/apple/Projects/classes/classes/obj/Debug/netcoreapp2.0/classes.csproj.CoreCompileInputs.cache
+/Users/apple/Projects/classes/classes/obj/Debug/netcoreapp2.0/classes.AssemblyInfoInputs.cache
+/Users/apple/Projects/classes/classes/obj/Debug/netcoreapp2.0/classes.AssemblyInfo.cs
+/Users/apple/Projects/classes/classes/bin/Debug/netcoreapp2.0/classes.deps.json
+/Users/apple/Projects/classes/classes/bin/Debug/netcoreapp2.0/classes.runtimeconfig.json
+/Users/apple/Projects/classes/classes/bin/Debug/netcoreapp2.0/classes.runtimeconfig.dev.json
+/Users/apple/Projects/classes/classes/bin/Debug/netcoreapp2.0/classes.dll
+/Users/apple/Projects/classes/classes/bin/Debug/netcoreapp2.0/classes.pdb
+/Users/apple/Projects/classes/classes/obj/Debug/netcoreapp2.0/classes.dll
+/Users/apple/Projects/classes/classes/obj/Debug/netcoreapp2.0/classes.pdb

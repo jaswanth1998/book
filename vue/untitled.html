@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>hkwf</title>
+	<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+</head>
+<body>
+
+<div id="example-2">
+  <simple-counter></simple-counter>
+  <simple-counter></simple-counter>
+  <simple-counter></simple-counter>
+</div>
+<div id = "123">
+  <input v-model="parentMsg">
+  <br>
+  <child v-bind:my-message="parentMsg"></child>
+</div>
+
+<script type="text/javascript">
+  var data = { counter: 0 }
+  Vue.component('child', {
+  // camelCase in JavaScript
+  props: ['myMessage'],
+  template: '<span>{{ myMessage }}</span>'
+})
+new vue({
+  el:'#123'
+})
+Vue.component('simple-counter', {
+  template: '<button v-on:click="counter += 1">{{ counter }}</button>',
+  // data is technically a function, so Vue won't
+  // complain, but we return the same object
+  // reference for each component instance
+  data: function () {
+     return {
+    counter: 0
+  }
+  }
+})
+
+new Vue({
+  el: '#example-2'
+})
+</script>
+</body>
